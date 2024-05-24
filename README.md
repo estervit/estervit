@@ -1,4 +1,4 @@
-## Olá eu sou Ester Vtória estudante de programação e tecnologia!
+## Olá eu sou Ester Vtória estudante de tecnologia da informação!
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=estervit&show_icons=true&theme=dark#gh-dracula-mode-only)](https://github.com/estervit/github-readme-stats#gh-dracula-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=estervit&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/estervit/github-readme-stats#gh-light-mode-only)
