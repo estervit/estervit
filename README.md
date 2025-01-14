@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://github.com/estervit/estervit/blob/output/github-contribution-grid-snake.svg)" />
+![snake gif](https://github.com/estervit/estervit/blob/output/github-contribution-grid-snake.svg)
 
 ###
