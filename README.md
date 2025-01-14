@@ -1,19 +1,16 @@
-<h2 align="left">👋 Hi! I'm Ester Tavares</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ester+Vitória+Tavares;I+study+Computer+Science+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=estervit&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Ester Tavares github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estervit&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
+</div>
 ###
 
 <p align="left">💻 Aspiring Software Developer with a strong passion for technology.<br>📚 Currently pursuing a Bachelor's degree in Computer Science.<br>🎸 Hobbies: Playing guitar and exploring new knowledge in music and technology.<br>🚀 Projects: Proficient in Docker, Python, NLP, and developing REST APIs integrated with AWS services such as Textract, S3, and CloudWatch.<br><br>🔍 Constantly striving to learn and improve, I believe in the transformative power of technology to solve complex problems and create meaningful impact.</p>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=estervit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estervit&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
@@ -54,7 +51,8 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p> 
   <img src="https://profile-counter.glitch.me/estervit/count.svg?"  />
 </div>
 
@@ -67,5 +65,5 @@
   <img src="https://github-profile-trophy.vercel.app?username=estervit&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=estervit&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
 
