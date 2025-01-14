@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=estervit&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Ester Tavares github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estervit&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 </div>
-###
+
 
 <p align="left">💻 Aspiring Software Developer with a strong passion for technology.<br>📚 Currently pursuing a Bachelor's degree in Computer Science.<br>🎸 Hobbies: Playing guitar and exploring new knowledge in music and technology.<br>🚀 Projects: Proficient in Docker, Python, NLP, and developing REST APIs integrated with AWS services such as Textract, S3, and CloudWatch.<br><br>🔍 Constantly striving to learn and improve, I believe in the transformative power of technology to solve complex problems and create meaningful impact.</p>
 
