@@ -8,7 +8,7 @@
 </div>
 
 
-<p align="left">💻 Aspiring Software Developer with a strong passion for technology.<br>📚 Currently pursuing a Bachelor's degree in Computer Science.<br<br>🚀 Projects: Proficient in Docker, Python, NLP, and developing REST APIs integrated with AWS services such as Textract, S3, and CloudWatch.<br><br>🔍 Constantly striving to learn and improve, I believe in the transformative power of technology to solve complex problems and create meaningful impact.</p>
+<p align="left">💻 Software developer with a great passion for technology.<br>📚 Currently pursuing a Bachelor's degree in Computer Science.<br<br>🚀 Projects: Proficient in Docker, Python, NLP, and developing REST APIs integrated with AWS services such as Textract, S3, and CloudWatch.<br><br>🔍 Constantly striving to learn and improve, I believe in the transformative power of technology to solve complex problems and create meaningful impact.</p>
 
 ##
 
